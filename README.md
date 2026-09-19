@@ -6,6 +6,45 @@
 ## 🙋‍♀️ About Me
 
 
+## My Development Journey
+
+My development journey started with **Web Frontend Development**, where I learned the fundamentals of:
+
+- HTML
+- CSS
+- JavaScript
+- Responsive UI
+- Tailwind CSS
+- React
+
+I then explored **Android App Development** using Android Studio, Java/Kotlin, SQLite, Firebase, and Android development concepts.
+
+As my interests evolved, I moved toward **React Native** to build cross-platform mobile applications using a single codebase.
+
+### Current Focus
+
+I am currently progressing toward **Full-Stack React Native Development**, working with:
+
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- NativeWind / Tailwind CSS
+- Clerk Authentication
+- REST APIs
+- Backend Development
+- Databases
+- Git & GitHub
+- Software Development Life Cycle (SDLC)
+
+I am focusing on understanding the complete development process — from requirements and UI design to frontend development, backend integration, authentication, databases, testing, and deployment.
+
+### Journey
+
+**Web Frontend → Android Development → React Native → Full-Stack Mobile Development**
+
+I am continuously building projects to strengthen my development skills and move toward professional software development.
+
 
 ```typescript
 const faiqa = {
