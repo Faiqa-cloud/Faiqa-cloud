@@ -61,8 +61,7 @@ const faiqa = {
     "React Native",
     "TypeScript",
     "Firebase",
-    "Cloud Computing",
-    "IoT",
+    "Cloud Computing"
   ],
 
   tech: {
